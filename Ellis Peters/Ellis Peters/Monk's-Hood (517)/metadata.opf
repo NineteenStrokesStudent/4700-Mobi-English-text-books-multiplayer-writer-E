@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34e8a5c1-0e9d-4f77-b3a2-5bc206365f9c</dc:identifier>
+        <dc:title>Monk's-Hood</dc:title>
+        <dc:creator opf:file-as="Peters, Ellis" opf:role="aut">Ellis Peters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Gervase Bonel, with his wife and servants, is a guest of Shrewsbury Abbey of Saint Peter and Saint Paul when he is suddenly taken ill. Luckily, the Abbey boasts the services of clever and kindly Brother Cadfael, a skilled herbalist. Cadfael hurries to the man's bedside, only to be confronted by two very different surprises. In Master Bonel's wife, the good monk recognises Richildis, whom he loved many years ago before he took his vows. And Master Bonel has been fatally poisoned by a dose of deadly monk's-hood oil from Cadfael's herbarium. The Sheriff is convinced that the murderer is Richildis' son Edwin, who had reasons aplenty to hate his stepfather. But Cadfael, guided in part by his tender concern for a woman to whom he was once betrothed, is certain of her son's innocence. Using his knowledge of both herbs and the human heart, Cadfael deciphers a deadly recipe for murder . . .</dc:description>
+        <dc:publisher>Little Brown &amp; Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780751543773</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="Brother Cadfael" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Monk's-Hood" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

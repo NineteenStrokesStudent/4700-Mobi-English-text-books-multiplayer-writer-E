@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7895</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcafebc9-c3f4-4d67-8679-793938100ca9</dc:identifier>
+        <dc:title>Billy Bathgate</dc:title>
+        <dc:creator opf:file-as="Doctorow, E. L." opf:role="aut">E. L. Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-15T11:44:48.299000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;In the Bronx of the 1930s, 15-year-old Billy Bathgate hooks up with a legendary mobster, Dutch Schultz. Schultz becomes an unlikely surrogate parent to the boy, introducing him to the ways of the world and training Billy to follow in his footsteps. After Billy falls for Schulz's latest girlfriend, he begins to question the actions of the mob he was so eager to join. As he seeks to protect the young woman, he gains strength in following his own heart and makes a courageous passage from boyhood to adulthood. E.L Doctorow won the 1990 &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Doctorow's mesmerizing odyssey about a teenage, fatherless street kid adopted by mobsters makes its first appearance in trade paper. &lt;br /&gt;Copyright 1993 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780812981179</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-07T04:05:26.371000+00:00" name="calibre:timestamp"/>
+        <meta content="Billy Bathgate" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

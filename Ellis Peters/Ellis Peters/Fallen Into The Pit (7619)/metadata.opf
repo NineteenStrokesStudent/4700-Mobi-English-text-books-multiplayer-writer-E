@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e543fa0d-a293-4930-b27f-44d5731bb2c3</dc:identifier>
+        <dc:title>Fallen Into The Pit</dc:title>
+        <dc:creator opf:file-as="Peters, Ellis" opf:role="aut">Ellis Peters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-06-01T14:18:44.543000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Originally published in 1951, but just now making its first American appearance, this mystery launched Peters's Inspector Felse series. Set in Britain just after WW II, the main sleuth here is not actually George Felse but his 13-year-old son Dominic. He and his best friend, Pussy Hart, are playing when Dom finds the body of Helmut Schauffler, an ex-P.O.W. who had stayed on after the war in the Comerford area. An autopsy indicates that Schauffler's skull was fractured by blows that were "precise, neat and of murderous intention." Helmut, a loathsome blend of cruelty, cowardice and anti-Semitism, is hardly mourned, but his death so rends the village's social fabric that solving the case is imperative. In his first murder investigation, George has difficulty viewing his neighbors as suspects, although the area does have its share of demobilized veterans, i.e., trained killers. Even more distressing to George and his wife Bunty is the proprietary--and potentially fatal--interest that Dom takes in the case. By giving the youth a finely balanced blend of doggedness, good luck, ingenuity and foolhardiness, Peters sets out a very effective mystery while expressing, through the gradual unfolding of the character of Helmut,her own serious skepticism that aperson--or a country--can change his--or its--spots. In 1991, Mysterious reissued Flight of the Witch , a Felse mystery written in 1964. &lt;br /&gt;Copyright 1994 Reed Business Information, Inc. &lt;/p&gt;&lt;h3&gt;From Library Journal&lt;/h3&gt;&lt;p&gt;Widely known for her Brother Cadfael medieval mysteries, Peters also built a series around British detective George Felse. This title, which initiated that series, is now published in the United States for the first time.&lt;br /&gt;Copyright 1994 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>Mysterious Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446403184</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Inspector Felse" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-28T06:09:44.845000+00:00" name="calibre:timestamp"/>
+        <meta content="Fallen Into The Pit" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

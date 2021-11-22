@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7293</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f160938-829b-48bb-b1e6-49e5c0cce20d</dc:identifier>
+        <dc:title>The Waterworks</dc:title>
+        <dc:creator opf:file-as="Doctorow, E. L." opf:role="aut">E. L. Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-06-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+“An elegant page-turner of nineteenth-century detective fiction.”–The Washington Post Book WorldOne rainy morning in 1871 in lower Manhattan, Martin Pemberton a freelance writer, sees in a passing stagecoach several elderly men, one of whom he recognizes as his supposedly dead and buried father. While trying to unravel the mystery, Pemberton disappears, sending McIlvaine, his employer, the editor of an evening paper, in pursuit of the truth behind his freelancer’s fate. Layer by layer, McIlvaine reveals a modern metropolis surging with primordial urges and sins, where the Tweed Ring operates the city for its own profit and a conspicuously self-satisfied nouveau-riche ignores the poverty and squalor that surrounds them. In E. L. Doctorow’s skilled hands, The Waterworks becomes, in the words of *The New York Times*, “a dark moral tale . . . an eloquently troubling evocation of our past.”“Startling and spellbinding . . . The waters that lave the narrative all run to the great confluence, where the deepest issues of life and death are borne along on the swift, sure vessel of [Doctorow’s] poetic imagination.”–*The New York Times Book Review*“Hypnotic . . . a dazzling romp, an extraordinary read, given strength and grace by the telling, by the poetic voice and controlled cynical lyricism of its streetwise and world-weary narrator.”–*The Philadelphia Inquirer*“A gem of a novel, intimate as chamber music . . . a thriller guaranteed to leave readers with residual chills and shudders.”–*Boston Sunday Herald*“Enthralling . . . a story of debauchery and redemption that is spellbinding from first page to last.”–*Chicago Sun-Times*“An immense, extraordinary achievement.”*–San Francisco Chronicle*</dc:description>
+        <dc:publisher>7-09999</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780812978193</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-09T10:54:04.171000+00:00" name="calibre:timestamp"/>
+        <meta content="Waterworks, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63cf84c6-d23c-43df-addb-29074ca8d67e</dc:identifier>
+        <dc:title>The Ape Who Guards the Balance</dc:title>
+        <dc:creator opf:file-as="Peters, Elizabeth" opf:role="aut">Elizabeth Peters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-02-15T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Named 1998 Grand Master by Mystery Writers of America, Elizabeth Peters   is also a doctor of Egyptology whose mysteries have submerged readers in the  vivid turn-of-the-century world of Amelia Peabody.  In *The Ape Who  Guards the Balance* Peters captures the immediacy of uncovering a new  Egyptian tomb within the context of a tightly plotted murder investigation  involving the entire Emerson Peabody clan.  The characters, including  Amelia's husband, Radcliffe Emerson, and her gifted son, Ramses, are  meticulously drawn. As in previous novels the dialogue is reminiscent of  *The Thin Man*.  When a man calls out to passing suffragettes, "You  ought to be 'ome washin' your 'usband's trousers!" Ramses shoots back, "I  assure you, sir, the lady's trousers are not in such sore need of  laundering as your own." Peters also toys with differing narrative  perspectives, and Ramses emerges as a possible successor to his mother's  legacy of crime solving.
+
+    *The Ape Who Guards the Balance* begins in 1907 in England where  Amelia is attending a suffragettes' rally outside the home of Mr. Geoffrey  Romer of the House of Commons. It seems Romer is one of the few remaining  private collectors of Egyptian antiquities, and a series of bizarre events  at the protest soon embroil Amelia in grave personal danger.  Suspecting  that the Master Criminal, Sethos, is behind their problems, the Emerson  Peabodys hasten to Egypt to continue their studies in the Valley of Kings  where they soon acquire a papyrus of the *Book of the Dead*.  As with  past seasons, however, their archaeological expedition is interrupted.  The  murdered body of a woman is found in the Nile.   Ramses, Radcliffe, and Amelia all have their theories as to the origin of  the crime, but their own lives might soon be at stake if the cult of Thoth  and their ancient book is, indeed, involved.
+
+    Other Peabody mysteries include *Seeing a Large Cat*, *The Hippopotamus Pool*,  *The Snake, the Crocodile,  and the Dog*, *The  Deeds of the Disturber*, *Lion in the Valley*, *The Curse of the Pharaohs*,  and *Crocodile on the  Sandbank*. *--Patrick O'Kelley*</dc:description>
+        <dc:publisher>Wheeler</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781568955971</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Amelia Peabody - Pub" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Ape Who Guards the Balance, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

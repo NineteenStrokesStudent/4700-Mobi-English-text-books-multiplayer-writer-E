@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fde63464-12a2-4771-b8db-460f47aff398</dc:identifier>
+        <dc:title>And Another Thing...</dc:title>
+        <dc:creator opf:file-as="Colfer, Eoin" opf:role="aut">Eoin Colfer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-30T10:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;Douglas Adams's Hitchhiker's Guide to the Galaxy: Part Six of Three&lt;/p&gt;
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;At long last, the motley band from Douglas Adams's renowned five-book Hitchhiker's Guide Trilogy have returned, thanks to Artemis Fowl author Colfer. When the Vogons return to finish obliterating Earth in our universe and all alternatives, Arthur Dent and his companions find themselves hitchhiking on the spacefaring Viking longship of Wowbagger the Infinitely Prolonged, an immortal with a death wish who is an expert at mass insults. Readers may find this volume paradoxical. On its own it is a funny novel, but Adams set a legendary, nearly impossible standard. Wacky humor reminiscent of the original Hitchhiker's Guide to the Galaxy rings true, as do most of the characters, but newer elements, such as the brief appearance of Cthulhu, feel out of place. Most notably absent is the supreme inventiveness that hit us with the Infinite Improbability Drive, and the comic-sublime moments like Arthur flying with Fenchurch. You can't go home again, but Adams fans will still appreciate the reunion with old friends. &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;From&lt;/h3&gt;&lt;p&gt;A wide variety of people love Douglas Adams's books, so perhaps it is appropriate that each critic brought his or her own expectations to &lt;em&gt;And Another Thing . ...&lt;/em&gt; Several who revered Adams's deadpan prose and verbal inventiveness found that the new book falls short. Others felt that Colfer's imitation often lacks subtlety and relies too heavily on reviving old Adams gags and characters. The &lt;em&gt;Los Angeles Times&lt;/em&gt; even went so far as to argue that this novel should have been reinvented in some more original form, such as an e-book. But some took the appearance of &lt;em&gt;And Another Thing ... &lt;/em&gt;to critically review the Adams oeuvre and found that Colfer made up for some qualities the original author lacked. In any case, even the harshest critics of the book were happy to see Arthur, Ford, Trillian, and Random saved from their doom. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Hyperion Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401323585</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Hitchhiker's Guide to the Galaxy" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-26T17:25:50.459669+00:00" name="calibre:timestamp"/>
+        <meta content="And Another Thing..." name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

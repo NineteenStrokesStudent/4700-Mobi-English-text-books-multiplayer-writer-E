@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8f1ddf4-d788-446c-8059-38232445721d</dc:identifier>
+        <dc:title>Homer &amp; Langley: A Novel</dc:title>
+        <dc:creator opf:file-as="Doctorow, E. L." opf:role="aut">E. L. Doctorow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+From Ragtime and Billy Bathgate to The Book of Daniel, World's Fair, and The March, the novels of E. L. Doctorow comprise one of the most substantive achievements of modern American fiction. Now, with Homer &amp; Langley, this master novelist has once again created an unforgettable work. Homer and Langley Collyer are brothers-the one blind and deeply intuitive, the other damaged into madness, or perhaps greatness, by mustard gas in the Great War. They live as recluses in their once grand Fifth Avenue mansion, scavenging the city streets for things they think they can use, hoarding the daily newspapers as research for Langley's proposed dateless newspaper whose reportage will be as prophecy. Yet the epic events of the century play out in the lives of the two brothers-wars, political movements, technological advances-and even though they want nothing more than to shut out the world, history seems to pass through their cluttered house in the persons of immigrants, prostitutes, society women, government agents, gangsters, jazz musicians . . . and their housebound lives are fraught with odyssean peril as they struggle to survive and create meaning for themselves. Brilliantly conceived, gorgeously written, this mesmerizing narrative, a free imaginative rendering of the lives of New York's fabled Collyer brothers, is a family story with the resonance of myth, an astonishing masterwork unlike any that have come before from this great writer. "From the Hardcover edition."</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781588368973</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-24T07:49:59.640000+00:00" name="calibre:timestamp"/>
+        <meta content="Homer &amp; Langley: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

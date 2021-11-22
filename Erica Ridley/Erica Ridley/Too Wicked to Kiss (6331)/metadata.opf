@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6331</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3add2dab-2dba-4ff5-a069-03fe119b944a</dc:identifier>
+        <dc:title>Too Wicked to Kiss</dc:title>
+        <dc:creator opf:file-as="Ridley, Erica" opf:role="aut">Erica Ridley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**His Touch Holds Her Captive.  .  .**
+
+From the ravens circling its spires to the gargoyles adorning its roof, Blackberry Manor looms ominously over its rambling grounds. And behind its doors, amid the flickering shadows and secret passageways, danger lies in wait.  .  . 
+
+**To His Every Dark Desire.  .  .**
+
+Evangeline Pemberton has been invited to a party at the sprawling estate of reclusive Gavin Lioncroft, who is rumored to have murdered his parents. Initially, Gavin's towering presence and brusque manner instill fear in Evangeline.  .  .until his rakish features and seductive attentions profoundly arouse her.
+
+But when a guest is murdered, Evangeline is torn. Could the man to whom she is so powerfully drawn, also -be a ruthless killer?
+
+"A unique gothic romance complete with murder, madness, and mayhem!"--Virginia Henley, *New York Times* bestselling author
+
+"A skillful blend of Gothic mystery and steamy romance."--Karen Rose, *New York Times* bestselling author
+
+**Erica Ridley** learned to read when she was four, which was about the same time she decided to be a writer when she grew up. Now, Erica writes Regency-set historical romances. Since becoming active in the writing community, all of her manuscripts have finaled in or won various RWA chapter contests. Erica is also the webmistress of her local writing chapter. When not reading or writing romances, Erica can be found riding camels in Africa, zip-lining through rainforests in Costa Rica, or getting hopelessly lost in the middle of Budapest.</dc:description>
+        <dc:publisher>Zebra Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781420109931</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-24T09:38:07.643000+00:00" name="calibre:timestamp"/>
+        <meta content="Too Wicked to Kiss" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

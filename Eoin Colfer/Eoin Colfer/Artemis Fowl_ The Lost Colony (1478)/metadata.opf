@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d3072e7-e3c6-4063-92b5-e6950ccdae8c</dc:identifier>
+        <dc:title>Artemis Fowl: The Lost Colony</dc:title>
+        <dc:creator opf:file-as="Colfer, Eoin" opf:role="aut">Eoin Colfer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-10T10:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Ten thousand years ago, humans and fairies fought a great battle for the magical island of Ireland. When it became clear to the fairy families that they could never win, they decided to move their civilization underground and keep themselves hidden from the humans. All the fairy families agreed on this, except the 8th family, the demons.    
+
+The demons planned to lift their small island out of time until they had regrouped and were ready to wage war on the humans once more. However the time spell went wrong, and the island of Hybras was catapulted into Limbo, where it has remained for ten thousand years.    
+
+Now, the tainted time spell is deteriorating and demons are being sucked back into the present space and time. The fairy Council is naturally concerned about this and is monitoring any materializations. When the spell's deterioration accelerates, the materializations become unpredictable. Even the fairy scientists cannot figure out where the next demon will pop up.     
+
+But someone can. Artemis Fowl, teenage criminal mastermind has solved temporal equations that no normal human should be intelligent enough to understand. So when a confused and frightened demon pops up in a Sicilian theatre, Artemis Fowl is there to meet him. Unfortunately, he is not the only one. A second, mysterious party has also solved the temporal equations, and has managed to abduct the demon before Artemis can secure him.    
+
+This is a disaster for the fairy people, as this demon was no ordinary fairy. He was the last demon warlock, the one who held the key to the survival of the entire demon race.    
+
+It is up to Artemis and his old comrade, Captain Holly Short, to track down the missing demon and rescue him, before the time spell dissolves completely and the lost demon colony returns violently to Earth.</dc:description>
+        <dc:publisher>Miramax Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780786849598</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="Artemis Fowl" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-03T02:47:17.404000+00:00" name="calibre:timestamp"/>
+        <meta content="Artemis Fowl: The Lost Colony" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

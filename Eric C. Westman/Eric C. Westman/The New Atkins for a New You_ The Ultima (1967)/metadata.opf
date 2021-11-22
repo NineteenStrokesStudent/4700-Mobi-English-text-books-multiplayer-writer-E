@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3737afbc-0345-40e1-999c-9e80afe7eb43</dc:identifier>
+        <dc:title>The New Atkins for a New You: The Ultimate Diet for Shedding Weight and Feeling Great</dc:title>
+        <dc:creator opf:file-as="Volek, Dr. Jeff S." opf:role="aut">Eric C. Westman</dc:creator>
+        <dc:creator opf:file-as="Volek, Dr. Jeff S." opf:role="aut">Stephen D. Phinney</dc:creator>
+        <dc:creator opf:file-as="Volek, Dr. Jeff S." opf:role="aut">Dr. Jeff S. Volek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**THINK YOU KNOW THE ATKINS DIET? THINK AGAIN. THE NEW ATKINS IS...   POWERFUL** Learn how to eat the wholesome foods that will turn your body into an amazing fat-burning machine.   **EASY** The updated and simplified program was created with you and your goals in mind.   **HEALTHY** Atkins is about eating delicious and healthy food -- a variety of protein, leafy greens and other vegetables, nuts, fruits, and whole grains.   **FLEXIBLE** Perfect for busy lifestyles: you can stick with Atkins at work, at home, on vacation, when you're eating out -- wherever you are.   **BACKED BY SCIENCE** More than 50 studies support the low-carb science behind Atkins.  
+
+ But Atkins is more than just a diet. This healthy lifestyle focuses on maintenance from Day 1, ensuring that you'll not only take the weight off -- you'll keep it off for good. Featuring inspiring success stories, all-new recipes, and 24 weeks' worth of meal plans, *The New Atkins for a New You* offers the proven low-carb plan that has worked for millions, now totally updated and even easier than ever.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439190272</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T22:52:59.246000+00:00" name="calibre:timestamp"/>
+        <meta content="New Atkins for a New You: The Ultimate Diet for Shedding Weight and Feeling Great, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

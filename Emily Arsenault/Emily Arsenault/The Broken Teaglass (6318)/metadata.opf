@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe62cb24-bc16-4b02-85a6-5c8fe98197e4</dc:identifier>
+        <dc:title>The Broken Teaglass</dc:title>
+        <dc:creator opf:file-as="Arsenault, Emily" opf:role="aut">Emily Arsenault</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-29T08:48:37.691000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The dusty files of a venerable dictionary publisher . . . a hidden cache of coded clues . . . a story written by a phantom author . . . an unsolved murder in a gritty urban park–all collide memorably in Emily Arsenault’s magnificent debut, at once a teasing literary puzzle, an ingenious suspense novel, and an exploration of definitions: of words, of who we are, and of the stories we choose to define us.****In the maze of cubicles at Samuelson Company, editors toil away in silence, studying the English language, poring over new expressions and freshly coined words–all in preparation for the next new edition of the Samuelson Dictionary. Among them is editorial assistant Billy Webb, just out of college, struggling to stay awake and appear competent. But there are a few distractions. His intriguing coworker Mona Minot may or may not be flirting with him. And he’s starting to sense something suspicious going on beneath this company’s academic facade.Mona has just made a startling discovery: a trove of puzzling citations, all taken from the same book, **The Broken Teaglass**. Billy and Mona soon learn that no such book exists. And the quotations from it are far too long, twisting, and bizarre for any dictionary. They read like a confessional, coyly hinting at a hidden identity, a secret liaison, a crime. As Billy and Mona ransack the office files, a chilling story begins to emerge: a story about a lonely young woman, a long-unsolved mystery, a moment of shattering violence. And as they piece together its fragments, the puzzle begins to take on bigger personal meaning for both of them, compelling them to redefine their notions of themselves and each other.Charged with wit and intelligence, set against a sweetly cautious love story, **The Broken Teaglass** is a tale that will delight lovers of words, lovers of mysteries, and fans of smart, funny, brilliantly inventive fiction.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553807332</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-18T02:05:20.251000+00:00" name="calibre:timestamp"/>
+        <meta content="Broken Teaglass, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

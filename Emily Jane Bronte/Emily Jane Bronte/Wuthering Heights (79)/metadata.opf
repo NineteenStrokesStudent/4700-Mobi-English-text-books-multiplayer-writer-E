@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e64a4653-13c6-4e86-9917-2e863c11452d</dc:identifier>
+        <dc:title>Wuthering Heights</dc:title>
+        <dc:creator opf:file-as="Bronte, Emily Jane" opf:role="aut">Emily Jane Bronte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Wuthering Heights is Emily Bronte's only novel. It was first published in 1847 under the pseudonym Ellis Bell, and a posthumous second edition was edited by her sister Charlotte. The name of the novel comes from the Yorkshire manor on the moors on which the story centres (as an adjective, wuthering is a Yorkshire word referring to turbulent weather). The narrative tells the tale of the all-encompassing and passionate, yet thwarted, love between Heathcliff and Catherine Earnshaw, and how this unresolved passion eventually destroys both themselves and many around them.
+
+
+
+Now considered a classic of English literature, Wuthering Heights' innovative structure, which has been likened to a series of Matryoshka dolls,[citation needed] met with mixed reviews by critics when it first appeared. Though Charlotte Bronte's Jane Eyre was originally considered the best of the Bronte sisters' works, many subsequent critics of Wuthering Heights argued that its originality and achievement made it superior. Wuthering Heights has also given rise to many adaptations and inspired works, including films, radio, television dramatisations, a musical by Bernard J. Taylor and songs (notably the hit Wuthering Heights by Kate Bush), ballet and opera. *(Quote from wikipedia.org)*
+
+
+
+**About the Author**
+
+
+
+Emily Jane Bronte (July 30, 1818 - December 19, 1848) was a British novelist and poet, now best remembered for her only novel Wuthering Heights, a classic of English literature. Emily was the second eldest of the three surviving Bronte sisters, being younger than Charlotte and older than Anne. She published under the masculine pen name Ellis Bell.
+
+
+
+Emily was born in Thornton, near Bradford in Yorkshire to Patrick Bronte and Maria Branwell. She was the younger sister of Charlotte Bronte and the fift</dc:description>
+        <dc:publisher>Forgotten Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781606802373</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-31T21:42:26.099000+00:00" name="calibre:timestamp"/>
+        <meta content="Wuthering Heights" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
